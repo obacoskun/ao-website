@@ -9,21 +9,21 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: Applied Optimal
+email: info@appliedoptimal.ca
 facebook_username:
 twitter_username:
 github_username:
 address:
-  - line:
-  - line:
+  - line: Lethbridge, AB
+  # - line: AB
   # Feel free to add more lines here 
 telephone:
-copyright:
+copyright: Applied Optimal
 
 # API settings
 google_api_key:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: 
