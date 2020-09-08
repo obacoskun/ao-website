@@ -12,9 +12,9 @@ body {
     height: 100%;
 }
 
-body {
+/* body {
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
-}
+} */
 
 .text-vertical-center {
     display: table-cell;
@@ -240,5 +240,5 @@ hr.small {
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 20px 0;
 }

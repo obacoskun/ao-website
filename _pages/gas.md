@@ -1,0 +1,5 @@
+---
+permalink: /gas/
+---
+
+# Natural Gas
